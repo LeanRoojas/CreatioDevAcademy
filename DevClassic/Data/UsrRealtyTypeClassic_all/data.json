@@ -1,0 +1,104 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "29905c64-f032-43c4-a94e-81b19a558aef"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b2872e81-e435-7b80-e4e9-c59efa41bb39",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "fa5bb014-f8c2-b804-4b7b-de8796685dce",
+          "Value": 0.00
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3d7f0590-bc07-4e8f-9e4f-edc218a1970e"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b2872e81-e435-7b80-e4e9-c59efa41bb39",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "fa5bb014-f8c2-b804-4b7b-de8796685dce",
+          "Value": 0.00
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7e8a8af5-8d3d-41cd-be37-8c19887f2dd8"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "test description"
+        },
+        {
+          "SchemaColumnUId": "b2872e81-e435-7b80-e4e9-c59efa41bb39",
+          "Value": "R2D2"
+        },
+        {
+          "SchemaColumnUId": "fa5bb014-f8c2-b804-4b7b-de8796685dce",
+          "Value": 0.00
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9f3b728a-752e-4eea-bfd5-01badbf8de80"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "description example"
+        },
+        {
+          "SchemaColumnUId": "b2872e81-e435-7b80-e4e9-c59efa41bb39",
+          "Value": "CODE #001"
+        },
+        {
+          "SchemaColumnUId": "fa5bb014-f8c2-b804-4b7b-de8796685dce",
+          "Value": 12510000.60
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dce18498-fb61-4e76-a277-367ea6f8288d"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b2872e81-e435-7b80-e4e9-c59efa41bb39",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "fa5bb014-f8c2-b804-4b7b-de8796685dce",
+          "Value": 0.00
+        }
+      ]
+    }
+  ]
+}
