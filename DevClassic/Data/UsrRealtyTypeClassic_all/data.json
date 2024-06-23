@@ -79,26 +79,6 @@
           "Value": 12510000.60
         }
       ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "dce18498-fb61-4e76-a277-367ea6f8288d"
-        },
-        {
-          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "b2872e81-e435-7b80-e4e9-c59efa41bb39",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "fa5bb014-f8c2-b804-4b7b-de8796685dce",
-          "Value": 0.00
-        }
-      ]
     }
   ]
 }

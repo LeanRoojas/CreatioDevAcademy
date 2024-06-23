@@ -55,20 +55,6 @@
           "Value": "1. House"
         }
       ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "ColumnName": "Id",
-          "Value": "dce18498-fb61-4e76-a277-367ea6f8288d"
-        },
-        {
-          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-          "ColumnName": "Name",
-          "Value": "5. Land area"
-        }
-      ]
     }
   ]
 }
